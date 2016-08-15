@@ -178,3 +178,11 @@ h3 {
 .header {
 	color: #bf360c;
 }
+
+.header-icon {
+	color: #1F4052;
+}
+.btn-primary {
+	background-color: #9C500C;
+	border-color: #9C500C;
+}
