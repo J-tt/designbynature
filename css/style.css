@@ -186,3 +186,7 @@ h3 {
 	background-color: #9C500C;
 	border-color: #9C500C;
 }
+
+.align-right {
+	float: right;
+}
